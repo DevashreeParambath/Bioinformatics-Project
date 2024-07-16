@@ -1,7 +1,7 @@
 from dash import Dash, dash_table, dcc, html, Input, Output, callback
 import pandas as pd
 
-df = pd.read_csv('C:\work\python\DashDataTable.csv', index_col = 0)
+df = pd.read_csv('https://raw.githubusercontent.com/ThomasCarroll/Bioinformatics-Project/main/DashDataTable.csv', index_col = 0)
 
 app = Dash(__name__)
 
