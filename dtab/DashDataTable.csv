@@ -1,0 +1,5 @@
+Sample, Group, bigWig, Genome
+K562_1, K562, https://www.encodeproject.org/files/ENCFF297ACQ/@@download/ENCFF297ACQ.bigWig, hg38
+K562_2, K562, //www.encodeproject.org/files/ENCFF412UVS/@@download/ENCFF412UVS.bigWig, hg38
+MCF7_1, MC7, https://www.encodeproject.org/files/ENCFF468QAA/@@download/ENCFF468QAA.bigWig, hg38
+MCF7_2, MC7, https://www.encodeproject.org/files/ENCFF550NGS/@@download/ENCFF550NGS.bigWig, hg38
